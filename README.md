@@ -1,5 +1,46 @@
 # Tawajoh landing page
 
+منصة رقمية ذكية قادمة قريبًا - اترك بريدك وسنخبرك عند الانطلاق
+
+[Source](https://github.com/Up-to-code/Tawajoh-landing-page) · [Issues](https://github.com/Up-to-code/Tawajoh-landing-page/issues) · [Project directory](https://github.com/qentrah/.github/blob/main/profile/PROJECTS.md)
+
+## Technology
+
+Next.js, React, TypeScript.
+
+## Get started
+
+```sh
+git clone https://github.com/Up-to-code/Tawajoh-landing-page.git
+cd Tawajoh-landing-page
+```
+
+Requires Node.js and pnpm.
+
+```sh
+pnpm install
+pnpm dev
+```
+
+## Available commands
+
+| Command | Purpose |
+| --- | --- |
+| `pnpm dev` | Development server |
+| `pnpm start` | Start the configured application |
+| `pnpm build` | Build the project |
+| `pnpm lint` | Check lint rules |
+
+## Project structure
+
+- [`app`](./app)
+- [`components`](./components)
+
+<details>
+<summary>Existing setup notes and credits</summary>
+
+# Tawajoh landing page
+
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/uptocodes-projects/v0-tawajoh-landing-page)
@@ -28,3 +69,5 @@ Continue building your app on:
 2. Deploy your chats from the v0 interface
 3. Changes are automatically pushed to this repository
 4. Vercel deploys the latest version from this repository
+
+</details>
